@@ -1,1 +1,1 @@
-# -dic-rails-instagramclone
+# dic-rails-instagramclone
